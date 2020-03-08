@@ -1,4 +1,4 @@
-var {forwardTo} = require('prisma-binding');
+var { forwardTo } = require('prisma-binding');
 
 // Get requests to db go here
 const Query = {
