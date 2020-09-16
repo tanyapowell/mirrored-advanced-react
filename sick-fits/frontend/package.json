@@ -54,7 +54,7 @@
     "graphql-tools": "^4.0.0",
     "jest": "^23.6.0",
     "jest-transform-graphql": "^2.1.0",
-    "prettier": "^1.14.3"
+    "prettier": "^2.1.2"
   },
   "jest": {
     "setupTestFrameworkScriptFile": "<rootDir>/jest.setup.js",
